@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la = list all files in parent of working directory in long format
